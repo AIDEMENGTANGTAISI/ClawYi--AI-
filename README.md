@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1341" height="597" alt="image" src="https://github.com/user-attachments/assets/3feed27b-b3c7-4cc9-b507-285ae4f2ed27" /><div align="center">
 
 # ClawYi
 
@@ -23,13 +23,26 @@
 | `clawyi video` | AI 生视频 | 一句话生成短视频 |
 | `clawyi scheduler` | 定时任务 | 本地定时自动执行 |
 | `clawyi workflow` | 工作流 | 按 ID/名称运行预定义流程 |
-
-## 🚀 快速上手
-<img width="1265" height="729" alt="image" src="https://github.com/user-attachments/assets/edfdf804-8756-448a-9d6a-0781bf3f3193" />
-<img width="1060" height="712" alt="image" src="https://github.com/user-attachments/assets/00ecbaa3-1e18-4534-a244-fd89e4dff377" />
-<img width="1257" height="666" alt="image" src="https://github.com/user-attachments/assets/556ac640-410e-41c4-9cbe-4c3f72461aee" />
+<img width="1203" height="316" alt="image" src="https://github.com/user-attachments/assets/cfa957fc-4fe2-49e4-97d7-f7adfed0eb05" />
 
 
+## 🚀 功能简介
+<img width="1219" height="701" alt="image" src="https://github.com/user-attachments/assets/9707b362-9d59-4e5a-8853-76d376e6d69c" />
+<img width="1118" height="529" alt="image" src="https://github.com/user-attachments/assets/7ee9d54a-12e5-43bc-897c-e9c165543e81" />
+
+## ✨核心能力
+<img width="1305" height="793" alt="image" src="https://github.com/user-attachments/assets/28e4d068-bd75-4de5-9d2f-f43312d659f2" />
+<img width="1341" height="597" alt="image" src="https://github.com/user-attachments/assets/95cef42b-b2f6-4aa7-8d2e-d9cc2fc5514c" />
+
+## 🚀 工作方式
+<img width="1055" height="732" alt="image" src="https://github.com/user-attachments/assets/cf4bd0dc-78eb-4541-b660-03553b92a367" />
+
+## 📅 岗位场景
+<img width="1263" height="801" alt="image" src="https://github.com/user-attachments/assets/2af29b6b-f512-4ea7-989e-bad58d992cec" />
+<img width="1306" height="546" alt="image" src="https://github.com/user-attachments/assets/c298105a-a20c-4a93-b8b3-b30243e10c69" />
+
+##⛓多而全的大模型链接
+<img width="999" height="619" alt="image" src="https://github.com/user-attachments/assets/c332d9f1-69a7-46ef-8dcb-6bf4bd487eb3" />
 
 💡 使用场景
 数据采集：定时抓取竞品价格、新闻、社交媒体数据
