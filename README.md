@@ -61,3 +61,6 @@ One person. The output of an entire team. Download ClawYi Desktop for Mac or Win
 自动化办公：自动填表、自动登录、自动截图
 竞品监控：定时检查竞品网站变化并通知
 
+<img width="559" height="514" alt="image" src="https://github.com/user-attachments/assets/0a5da7b5-2972-4230-9cb2-3a524002ade8" />
+入群了解更多信息，玩法分享
+
