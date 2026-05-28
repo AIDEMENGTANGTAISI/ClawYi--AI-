@@ -4,10 +4,20 @@
 
 **一个命令搞定联网搜索、网页自动化、AI 生图生视频的 CLI 工具平台**
 
-[官网](https://clawyi.com/) · [文档](https://clawyi.com/docs) · [定价](https://clawyi.com/pricing)
 
+[官网](https://clawyi.com/) 
 [![Website](https://img.shields.io/badge/Website-clawyi.com-blue)](https://clawyi.com/)
+ClawYi — Hire AI Agents. Run Entire Business Operations.
 
+ClawYi is an all-in-one AI Workforce OS that lets any company — from solo founders to enterprise teams — hire, manage, and deploy AI agents the same way you'd hire real employees.
+
+Unlike point solutions that handle chatbots, RPA, or workflows in isolation, ClawYi unifies AI Agents, Visual Workflows, Intelligent RPA, a Native Desktop App, and AI Infrastructure (cloud phones, cloud desktops, and code sandboxes) into a single platform. One identity. One memory. One audit trail. One bill.
+
+Your AI agents can take over customer service across Slack and email, reconcile invoices in SAP, compare prices across 10 e-commerce platforms simultaneously, generate marketing content, screen resumes, or produce daily analytics reports — all without writing a single line of code.
+
+With 20+ integrated LLMs (GPT, Claude, Gemini, DeepSeek, and more), 300+ ready-to-use skills, and deep integrations with Slack, Teams, Telegram, WhatsApp, and email, ClawYi agents start working in minutes — not months.
+
+One person. The output of an entire team. Download ClawYi Desktop for Mac or Windows and see it for yourself.
 </div>
 
 ---
