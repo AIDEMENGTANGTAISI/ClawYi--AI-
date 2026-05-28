@@ -26,15 +26,3 @@
 
 ## 🚀 快速上手
 
-```bash
-# 安装
-curl -fsSL https://clawyi.com/install.sh | bash
-
-# 搜索
-clawyi search "2024年AI趋势"
-
-# 生成图片
-clawyi image "一只猫在弹钢琴，赛博朋克风格"
-
-# 浏览器自动化
-clawyi open "https://example.com"
