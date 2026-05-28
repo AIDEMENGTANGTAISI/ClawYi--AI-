@@ -24,7 +24,7 @@ One person. The output of an entire team. Download ClawYi Desktop for Mac or Win
 ---
 
 ## ✨ 核心能力
-
+国内外大模型一键调用
 | 命令 | 功能 | 一句话描述 |
 |------|------|-----------|
 | `clawyi search` | 联网搜索 | 搜索即得结构化结果 |
@@ -36,6 +36,8 @@ One person. The output of an entire team. Download ClawYi Desktop for Mac or Win
 | `clawyi workflow` | 工作流 | 按 ID/名称运行预定义流程 |
 <img width="1203" height="316" alt="image" src="https://github.com/user-attachments/assets/cfa957fc-4fe2-49e4-97d7-f7adfed0eb05" />
 
+<img width="300" height="259" alt="image" src="https://github.com/user-attachments/assets/761868b5-565a-440f-b0b1-b12058195316" />
+入群了解更多玩法
 
 ## 🚀 功能简介
 <img width="1219" height="701" alt="image" src="https://github.com/user-attachments/assets/9707b362-9d59-4e5a-8853-76d376e6d69c" />
