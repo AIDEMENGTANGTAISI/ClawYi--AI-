@@ -25,4 +25,15 @@
 | `clawyi workflow` | 工作流 | 按 ID/名称运行预定义流程 |
 
 ## 🚀 快速上手
+<img width="1265" height="729" alt="image" src="https://github.com/user-attachments/assets/edfdf804-8756-448a-9d6a-0781bf3f3193" />
+<img width="1060" height="712" alt="image" src="https://github.com/user-attachments/assets/00ecbaa3-1e18-4534-a244-fd89e4dff377" />
+<img width="1257" height="666" alt="image" src="https://github.com/user-attachments/assets/556ac640-410e-41c4-9cbe-4c3f72461aee" />
+
+
+
+💡 使用场景
+数据采集：定时抓取竞品价格、新闻、社交媒体数据
+内容创作：AI 生成配图、短视频，批量产出
+自动化办公：自动填表、自动登录、自动截图
+竞品监控：定时检查竞品网站变化并通知
 
