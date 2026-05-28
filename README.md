@@ -1,4 +1,5 @@
-<img width="1341" height="597" alt="image" src="https://github.com/user-attachments/assets/3feed27b-b3c7-4cc9-b507-285ae4f2ed27" /><div align="center">
+<img width="1217" height="656" alt="image" src="https://github.com/user-attachments/assets/c0b8f8a0-7ca7-4f20-8886-a3361c213b17" />
+
 
 # ClawYi
 
